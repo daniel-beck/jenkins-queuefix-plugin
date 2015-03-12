@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Workaround to the 1.601+ issue with the /queue/item/xx/ API
+</div>
